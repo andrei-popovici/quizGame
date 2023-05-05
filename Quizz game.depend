@@ -1,0 +1,387 @@
+# depslib dependency file v1.0
+1672745657 source:c:\users\andrei\documents\cp project\proiect cp\quizz game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Module1.h"
+
+1672753499 c:\users\andrei\documents\cp project\proiect cp\quizz game\module1.h
+	<stdlib.h>
+
+1672754960 source:c:\users\andrei\documents\cp project\proiect cp\quizz game\module1.c
+	"Module1.h"
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1672803787 source:c:\users\andrei\documents\quizz game cp\quizz game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Module1.h"
+	"questions.h"
+
+1672800870 c:\users\andrei\documents\quizz game cp\quizz game\module1.h
+	<stdlib.h>
+
+1672802489 source:c:\users\andrei\documents\quizz game cp\quizz game\module1.c
+	"Module1.h"
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1672803939 source:c:\users\andrei\documents\quizz game cp\quizz game\questions.c
+	"questions.h"
+	"Module1.h"
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	<time.h>
+
+1672803660 c:\users\andrei\documents\quizz game cp\quizz game\questions.h
+
+1672862277 source:c:\users\matei\downloads\quizz_game_7\quizz game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Module1.h"
+	"questions.h"
+	"score.h"
+
+1672859230 c:\users\matei\downloads\quizz_game_7\quizz game\module1.h
+	<stdlib.h>
+
+1672862097 c:\users\matei\downloads\quizz_game_7\quizz game\questions.h
+
+1672859230 source:c:\users\matei\downloads\quizz_game_7\quizz game\module1.c
+	"Module1.h"
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1672862097 source:c:\users\matei\downloads\quizz_game_7\quizz game\questions.c
+	"questions.h"
+	"Module1.h"
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	<time.h>
+
+1672862964 source:c:\users\matei\downloads\quizz_game_7\quizz game\score.c
+	"score.h"
+	"questions.h"
+
+1672860334 c:\users\matei\downloads\quizz_game_7\quizz game\score.h
+
+1673105044 source:c:\users\andrei\desktop\quizz game\module1.c
+	"Module1.h"
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1673020860 c:\users\andrei\desktop\quizz game\module1.h
+	<stdlib.h>
+
+1673127046 source:c:\users\andrei\desktop\quizz game\questions.c
+	"questions.h"
+	"startstop.h"
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	<time.h>
+
+1673126832 c:\users\andrei\desktop\quizz game\questions.h
+
+1673128973 source:c:\users\andrei\desktop\quizz game\score.c
+	"score.h"
+	"questions.h"
+	"startstop.h"
+	<stdio.h>
+	<stdlib.h>
+
+1673126832 c:\users\andrei\desktop\quizz game\score.h
+
+1673116522 source:c:\users\andrei\desktop\quizz game\module4.c
+	"Module1.h"
+	"Module4.h"
+	"score.h"
+	<stdlib.h>
+	<stdio.h>
+
+1673087598 c:\users\andrei\desktop\quizz game\module4.h
+
+1673126832 source:c:\users\andrei\desktop\quizz game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"startstop.h"
+	"questions.h"
+	"score.h"
+	"rewards.h"
+
+1673126902 c:\users\andrei\desktop\quizz game\startstop.h
+	<stdlib.h>
+
+1673126902 c:\users\andrei\desktop\quizz game\rewards.h
+
+1673126976 source:c:\users\andrei\desktop\quizz game\startstop.c
+	"startstop.h"
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1673128300 source:c:\users\andrei\desktop\quizz game\rewards.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"rewards.h"
+	"startstop.h"
+
+1673194364 source:c:\users\andrei\desktop\quizz game 10\questions.c
+	"questions.h"
+	"startstop.h"
+
+1673194364 c:\users\andrei\desktop\quizz game 10\questions.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	<time.h>
+
+1673193088 c:\users\andrei\desktop\quizz game 10\startstop.h
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1673194364 source:c:\users\andrei\desktop\quizz game 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"startstop.h"
+	"questions.h"
+	"score.h"
+	"rewards.h"
+
+1673192335 c:\users\andrei\desktop\quizz game 10\score.h
+	<stdio.h>
+	<stdlib.h>
+
+1673193088 c:\users\andrei\desktop\quizz game 10\rewards.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1673194364 source:c:\users\andrei\desktop\quizz game 10\rewards.c
+	"rewards.h"
+	"startstop.h"
+
+1673186825 source:c:\users\andrei\desktop\quizz game 10\score.c
+	"score.h"
+	"questions.h"
+	"startstop.h"
+	<stdio.h>
+	<stdlib.h>
+
+1673194364 source:c:\users\andrei\desktop\quizz game 10\startstop.c
+	"startstop.h"
+
+1673264006 source:c:\users\matei\downloads\quizz_game_final (1)\quizz game 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"startstop.h"
+	"questions.h"
+	"score.h"
+	"rewards.h"
+
+1673264007 c:\users\matei\downloads\quizz_game_final (1)\quizz game 10\startstop.h
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1673264007 c:\users\matei\downloads\quizz_game_final (1)\quizz game 10\questions.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	<time.h>
+
+1673264007 c:\users\matei\downloads\quizz_game_final (1)\quizz game 10\score.h
+	<stdio.h>
+	<stdlib.h>
+
+1673264007 c:\users\matei\downloads\quizz_game_final (1)\quizz game 10\rewards.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1673264007 source:c:\users\matei\downloads\quizz_game_final (1)\quizz game 10\questions.c
+	"questions.h"
+	"startstop.h"
+
+1673264007 source:c:\users\matei\downloads\quizz_game_final (1)\quizz game 10\rewards.c
+	"rewards.h"
+	"startstop.h"
+
+1673264007 source:c:\users\matei\downloads\quizz_game_final (1)\quizz game 10\score.c
+	"score.h"
+	"questions.h"
+	"startstop.h"
+
+1673264007 source:c:\users\matei\downloads\quizz_game_final (1)\quizz game 10\startstop.c
+	"startstop.h"
+
+1673264006 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\quizz game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"startstop.h"
+	"questions.h"
+	"score.h"
+	"rewards.h"
+
+1673264007 c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\quizz game\startstop.h
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1673264007 c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\quizz game\questions.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	<time.h>
+
+1673264007 c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\quizz game\score.h
+	<stdio.h>
+	<stdlib.h>
+
+1673264007 c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\quizz game\rewards.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1673264007 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\quizz game\questions.c
+	"questions.h"
+	"startstop.h"
+
+1673264007 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\quizz game\rewards.c
+	"rewards.h"
+	"startstop.h"
+
+1673264471 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\quizz game\score.c
+	"score.h"
+	"questions.h"
+	"startstop.h"
+
+1673264007 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\quizz game\startstop.c
+	"startstop.h"
+
+1673264006 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"startstop.h"
+	"questions.h"
+	"score.h"
+	"rewards.h"
+
+1673264007 c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\startstop.h
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1673264007 c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\questions.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	<time.h>
+
+1673264007 c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\score.h
+	<stdio.h>
+	<stdlib.h>
+
+1673264007 c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\rewards.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1673264007 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\questions.c
+	"questions.h"
+	"startstop.h"
+
+1673264007 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\rewards.c
+	"rewards.h"
+	"startstop.h"
+
+1673264471 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\score.c
+	"score.h"
+	"questions.h"
+	"startstop.h"
+
+1673264007 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game\startstop.c
+	"startstop.h"
+
+1673264008 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game - sorodoc matei, popovici andrei\quizz game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"startstop.h"
+	"questions.h"
+	"score.h"
+	"rewards.h"
+
+1673264008 c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game - sorodoc matei, popovici andrei\quizz game\startstop.h
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1673264008 c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game - sorodoc matei, popovici andrei\quizz game\questions.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	<time.h>
+
+1673264008 c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game - sorodoc matei, popovici andrei\quizz game\score.h
+	<stdio.h>
+	<stdlib.h>
+
+1673264008 c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game - sorodoc matei, popovici andrei\quizz game\rewards.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1673264008 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game - sorodoc matei, popovici andrei\quizz game\questions.c
+	"questions.h"
+	"startstop.h"
+
+1673264008 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game - sorodoc matei, popovici andrei\quizz game\rewards.c
+	"rewards.h"
+	"startstop.h"
+
+1673264472 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game - sorodoc matei, popovici andrei\quizz game\score.c
+	"score.h"
+	"questions.h"
+	"startstop.h"
+
+1673264008 source:c:\users\matei\onedrive - technical university of cluj-napoca\desktop\quizz game - sorodoc matei, popovici andrei\quizz game\startstop.c
+	"startstop.h"
+
